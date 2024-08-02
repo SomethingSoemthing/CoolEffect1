@@ -10,6 +10,7 @@
 body {
   color: white;
   background-color: black;
+  overscroll-behavior-y: contain;
 }
 #b {
   position: absolute;
